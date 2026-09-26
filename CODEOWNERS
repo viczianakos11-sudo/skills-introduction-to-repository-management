@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @viczianakos11-sudo
+/src/backend/database.py      @viczianakos11-sudo
+/src/backend/routers/auth.py  @viczianakos11-sudo
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @viczianakos11-sudo
